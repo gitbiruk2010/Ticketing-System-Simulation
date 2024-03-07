@@ -1,4 +1,5 @@
-# Ticketing-System-Simulation
+# Ticketing-System-Simulation using Python
+![image](https://github.com/gitbiruk2010/Ticketing-System-Simulation/assets/103274295/cf400265-0de7-4b23-8a5d-8cc010a61fa6)
 
 ## Description
 
